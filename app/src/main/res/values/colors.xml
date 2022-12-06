@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="cobaltblue">#22285A</color>
+    <color name="light_blue">#464B4D</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyanprocess">#5BC0EB</color>
+    <color name="pumpkin">#FA7921</color>
+    <color name="pear">#D5E001</color>
+    <color name="darkorange">#E55934</color>
+    <color name="darkbluegray">#586994</color>
+
+
+</resources>
